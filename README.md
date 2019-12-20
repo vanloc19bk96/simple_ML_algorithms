@@ -9,5 +9,9 @@ from scratch without using machine learning libraries
  I used the simple dataset. You can download on [Kaggle](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
  If you apply your dataset in this algorithm which hasn't a good result. Please change learning rate or iterations until a good result.
 
-## [Kmeans clustering](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kmeans.py)
+## [KMeans clustering](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kmeans.py)
+Changes k parameter to be suitable in your case
 
+## [K-neighbors clustering](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kneighbors.py)
+
+Changes k parameter to be suitable in your case
