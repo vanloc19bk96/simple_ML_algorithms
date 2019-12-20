@@ -6,8 +6,15 @@ from scratch without using machine learning libraries
 
 ## [Linear regression](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/linear_regression.py) ##
 
- I use the simple dataset. You can download on [Kaggle](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
+ I used the simple dataset. You can download on [Kaggle](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
  If you apply your dataset in this algorithm which hasn't a good result. Please change learning rate or iterations until a good result.
  
 ### Result ###
- 
+
+Loss
+
+![Alt text](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/image/linear_regression_loss.PNG)
+
+Prediction
+
+![Alt text](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/image/linear_regression_prediction.PNG)
