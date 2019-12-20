@@ -13,8 +13,8 @@ from scratch without using machine learning libraries
 
 Loss
 
-![Alt text](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/image/linear_regression_loss.PNG)
+![Alt text](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/image/linear_regression_loss.PNG =100x100)
 
 Prediction
 
-![Alt text](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/image/linear_regression_prediction.PNG)
+![Alt text](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/image/linear_regression_prediction.PNG =100x100)
