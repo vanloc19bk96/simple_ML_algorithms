@@ -12,6 +12,8 @@ from scratch without using machine learning libraries
 ## [KMeans clustering](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kmeans.py)
 Changes k parameter to be suitable in your case
 
-## [K-neighbors clustering](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kneighbors.py)
+## [K-neighbors](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kneighbors.py)
 
 Changes k parameter to be suitable in your case
+
+## [Naive bayes](https://github.com/vanloc19bk96/simple_ML_algorithms/blob/master/kneighbors.py)
